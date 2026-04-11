@@ -22,7 +22,8 @@ Let us talk about features
   <img width="1478" height="843" alt="Screenshot 2026-04-06 130429" src="https://github.com/user-attachments/assets/262091a4-c42d-4228-bd92-4d78fab9a19a" />
 
   **Case With Components**
- <img width="1695" height="784" alt="Screenshot 2026-04-11 194020" src="https://github.com/user-attachments/assets/9fd26936-0e42-  4167-83a4-b741b7181075" />
+<img width="1695" height="784" alt="Screenshot 2026-04-11 194020" src="https://github.com/user-attachments/assets/161d1a78-0f3a-43a6-ab3d-7fc5203f6ab4" />
+
  <img width="650" height="652" alt="Screenshot 2026-04-11 193851" src="https://github.com/user-attachments/assets/3a90194c-e3e3-43e0-8fa6-3daf67d566d8" />
 
  pieace. peace whatever idk spelling 
