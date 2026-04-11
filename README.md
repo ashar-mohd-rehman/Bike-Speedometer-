@@ -28,6 +28,24 @@ Let us talk about features
 
  pieace. peace whatever idk spelling 
 
+**BOM**
+
+LINK - https://docs.google.com/spreadsheets/d/1TzOF5hf8aBWl8qxK7e9dfW4KzLnE9d2bEbTf8p3DWF0/edit?gid=609103550#gid=609103550
+
+
+| Component | Description | Quantity | Unit Price (USD) | Total (USD) | Supplier |
+|-----------|-------------|----------|------------------|-------------|----------|
+| Seeed Studio XIAO ESP32-S3 | Main microcontroller | 1 | $9.66 | $9.66 | Robocraze |
+| NEO-6M GPS Module | GPS module for position tracking | 1 | $2.70 | $2.70 | Robu.in |
+| 1.3" I2C OLED Display Module | SSD1306 128x64 display | 1 | $2.90 | $2.90 | Robu.in |
+| Molicel INR-18650-M35A | 3.6V 3500mAh Li-ion battery | 1 | $4.29 | $4.29 | Robu.in |
+| MTS-101R Miniature Toggle Switch | SPST 2-pin power switch | 2 | $0.39 | $0.77 | Robu.in |
+| 10kΩ 0.25W Metal Film Resistor | For voltage divider circuit | 10 | $0.003 | $0.03 | Robu.in |
+| 24AWG Single Core Teflon Wire | Black hookup wire | 1m | $0.19 | $0.19 | Robu.in |
+| M5x8mm Brass Heat-Set Inserts | For handlebar clamp mounting | 25 | $0.06 | $1.62 | Robu.in |
+| M3x4mm Brass Heat-Set Inserts | For case assembly screws | 25 | $0.04 | $0.96 | Robu.in |
+| Fog Lamp Clamp | Handlebar mounting clamp | 2 | $1.52 | $3.04 | Amazon |
+| | | | **Total:** | **$26.16** | |
 
 
 
