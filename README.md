@@ -1,5 +1,8 @@
 # Bike-Speedometer-
 A digital speedometer for my mtb based on XIAO esp 32 s3, NEO 6M GPS module and an 1.3 inch OLED display
+<img width="1443" height="1082" alt="Screenshot 2026-04-25 182258" src="https://github.com/user-attachments/assets/1fb97754-8d9b-4976-934b-b04732a1ed9f" />
+
+<img width="1760" height="947" alt="Screenshot 2026-04-25 181715" src="https://github.com/user-attachments/assets/c952ead0-c23d-429b-8779-6c99fdee98b5" />
 
 Let us talk about features 
 <img width="976" height="662" alt="Screenshot 2026-04-10 203553" src="https://github.com/user-attachments/assets/3d6eace0-13ae-43df-bee1-d5914aad0166" />
