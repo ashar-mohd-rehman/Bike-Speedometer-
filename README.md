@@ -36,7 +36,7 @@ LINK - https://docs.google.com/spreadsheets/d/1TzOF5hf8aBWl8qxK7e9dfW4KzLnE9d2bE
 
 | Component | Description | Quantity | Unit Price (USD) | Total (USD) | Supplier |
 |-----------|-------------|----------|------------------|-------------|----------|
-| Seeed Studio XIAO ESP32-S3 | Main microcontroller | 1 | $9.66 | $9.66 | Robocraze |
+| Seeed Studio XIAO ESP32-S3 | Main microcontroller | 1 | $9.66 | $9.66 | Robu.in |
 | NEO-6M GPS Module | GPS module for position tracking | 1 | $2.70 | $2.70 | Robu.in |
 | 1.3" I2C OLED Display Module | SSD1306 128x64 display | 1 | $2.90 | $2.90 | Robu.in |
 | Molicel INR-18650-M35A | 3.6V 3500mAh Li-ion battery | 1 | $4.29 | $4.29 | Robu.in |
@@ -46,7 +46,8 @@ LINK - https://docs.google.com/spreadsheets/d/1TzOF5hf8aBWl8qxK7e9dfW4KzLnE9d2bE
 | M5x8mm Brass Heat-Set Inserts | For handlebar clamp mounting | 25 | $0.06 | $1.62 | Robu.in |
 | M3x4mm Brass Heat-Set Inserts | For case assembly screws | 25 | $0.04 | $0.96 | Robu.in |
 | Fog Lamp Clamp | Handlebar mounting clamp | 2 | $1.52 | $3.04 | Amazon |
-| | | | **Total:** | **$26.16** | |
+| Allen Key Set | Allen keys | 1 | $2.57 | $2.57 | Robu.in |
+| | | | **Total:** | **$35** | |
 
 
 
